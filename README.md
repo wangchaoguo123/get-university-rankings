@@ -1,0 +1,2 @@
+# get-university-rankings
+用于爬取上海软科教育信息咨询有限公司发布的各类大学排名数据的Python脚本
